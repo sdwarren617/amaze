@@ -36,15 +36,18 @@ What are all these files for?
 #### So you wanna make your own website?
 Here's some inpsiration, `🌶️ = exponential perspiration`
 
-### Blog
+<!-- ### Blog
 
-### Store
+### Store -->
 
 ### Fancy "I Know how to code" Resume
 - [https://phlippe.github.io/](https://phlippe.github.io/)  🌶️ 🌶️ 🌶️ 
-- Simple [https://alfredfrancis.in/](https://alfredfrancis.in/about/)
-- 
+- [https://alfredfrancis.in/](https://alfredfrancis.in/about/) simple
 
-### Tech Docs
-fgh./  
-### Friends and Me
+
+<!-- ### Tech Docs -->
+
+### Friends
+- [https://barakbinyamin.github.io](https://barakbinyamin.github.io)
+- [https://jasoneveleth.com](https://jasoneveleth.com)
+- [https://caseybrigid.github.io](https://caseybrigid.github.io)

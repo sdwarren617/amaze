@@ -1,0 +1,71 @@
+* {
+    box-sizing              : border-box;
+    text-rendering          : optimizeLegibility;
+    -webkit-font-smoothin   : antialiased;
+    -moz-osx-font-smoothing : grayscale;
+    font-kerning            : auto;
+}
+
+html {
+    font-family: sans-serif;
+    /* -webkit-text-size-adjust: 100%; */
+}
+
+body {
+    margin: 0;
+}
+
+.center{
+    display:grid;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+table {
+    width: max-content;
+    /* background-color: blue; */
+}
+  
+th, td {
+    width: 50px;
+    height: 50px;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    background-color: GREY;
+    /* border-radius: 5px 5px 50px 4px; */
+}
+
+.w{
+    background-image: url("/rocks.png");
+    background-position: center;
+    background-size: cover; 
+    background-origin: content-box;
+    padding          : 0px 0px 0px 0px;
+    background-repeat: no-repeat;
+}
+#g{
+    background-image: url("/goal.png");
+    background-position: center;
+    background-size: cover; 
+    background-origin: content-box;
+    padding          : 10px;
+    background-repeat: no-repeat;
+}
+.contain{
+    position: relative;
+}
+#ROBOT{
+    top: 7px;
+    left: 7px;
+    height: 40px;
+    width: 40px;
+    display: block;
+    position: absolute;
+    background-image: url('robot.png');
+    background-position: center;
+    background-size: cover; 
+    transition: left .5s linear,  top .5s linear;
+}

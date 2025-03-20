@@ -39,7 +39,7 @@ th, td {
 }
 
 .w{
-    background-image: url("/rocks.png");
+    background-image: url("rocks.png");
     background-position: center;
     background-size: cover; 
     background-origin: content-box;
@@ -47,7 +47,7 @@ th, td {
     background-repeat: no-repeat;
 }
 #g{
-    background-image: url("/goal.png");
+    background-image: url("goal.png");
     background-position: center;
     background-size: cover; 
     background-origin: content-box;

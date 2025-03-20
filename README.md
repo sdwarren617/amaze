@@ -34,7 +34,7 @@ What are all these files for?
 #### Lesson 4: Publish your custom website
 
 ### So you wanna make your own website?
-Here's some inpsiration, `🌶️ = exponential perspiration`
+Here's some inpsiration `🌶️ = exponential perspiration`
 
 <!-- ### Blog
 

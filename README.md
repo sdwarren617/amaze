@@ -7,20 +7,6 @@ Lesson plan
 3. Change the website by updating text, images, and game logic 
 4. Publish your version of the game to the internet
 
-What are all these files for? 
-| File/Folder                    |  Purpose                                    |
-|:--                             |:--                                          |
-| [lesson-images](lesson-images) | Images used for reference                   | 
-| [glitter.gif](glitter.gif)     | The glitter gif shown when the game is won  |
-| [goal.png](goal.png)           | Image of the treasure chest                 |
-| [index.html](index.html)       | The main website file                       |
-| [main.js](main.js)             | Logic code for the game                     |
-| [README.md](README.md)         | This documention                            |
-| [robot.png](robot.png)         | Image of the robot                          |
-| [rocks.png](rocks.png)         | Image of the rocks                          |
-| [style.css](style.css)         | Style code to make the website pretty       |
-
-
 #### Part 1: Getting started
 1. Sign up for [github](https://github.com/signup)
 2. [Get vscode](https://code.visualstudio.com/download)
@@ -43,7 +29,7 @@ Explore the code, change stuff and see what happens
 
 Great work! You've published your own website!!! 
 
-### So you wanna make your own website?
+##j So you wanna make your own website?
 Here's some inpsiration `🌶️ = exponential perspiration`
 
 <!-- ### Blog

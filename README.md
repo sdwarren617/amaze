@@ -29,7 +29,7 @@ Explore the code, change stuff and see what happens
 
 Great work! You've published your own website!!! 
 
-##j So you wanna make your own website?
+## So you wanna make your own website?
 Here's some inpsiration `🌶️ = exponential perspiration`
 
 <!-- ### Blog

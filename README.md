@@ -1,5 +1,5 @@
 # amaze
-A fun game to learn to code by moving a robot through a maze. Start by moving a robot, end by launching your own website
+A fun game to learn to code by moving a robot through a maze. Start by moving a robot, finish by launching your own website
 
 Lesson plan
 1. Download this starter code and get a good coding setup

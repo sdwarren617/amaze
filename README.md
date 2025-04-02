@@ -40,6 +40,7 @@ Here's some inpsiration `🌶️ = exponential perspiration`
 - [https://phlippe.github.io/](https://phlippe.github.io/)  🌶️ 🌶️ 🌶️ 
 - [https://alfredfrancis.in/](https://alfredfrancis.in/about/)
 - [http://vanderplas.com/](http://vanderplas.com/)
+- [https://evanfp582.github.io](https://evanfp582.github.io)
 
 <!-- ### Tech Docs -->
 
@@ -47,3 +48,4 @@ Here's some inpsiration `🌶️ = exponential perspiration`
 - [https://barakbinyamin.github.io](https://barakbinyamin.github.io)
 - [https://jasoneveleth.com](https://jasoneveleth.com)
 - [https://caseybrigid.github.io](https://caseybrigid.github.io)
+  

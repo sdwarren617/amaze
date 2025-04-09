@@ -69,6 +69,20 @@ async function main(){
     //      4. await robot.move_left()
 
     await robot.move_down()
+    await robot.move_down()
+    await robot.move_down()
+    await robot.move_right()
+    await robot.move_right()
+    await robot.move_up()
+    await robot.move_up()
+    await robot.move_up()
+    await robot.move_right()
+    await robot.move_right()
+    await robot.move_down()
+    await robot.move_down()
+    await robot.move_down()
+
+
 
     /**** Code within here to start  ****/
 }

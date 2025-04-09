@@ -25,7 +25,7 @@ body {
 
 table {
     width: max-content;
-    /* background-color: blue; */
+    background-color: blue;
 }
   
 th, td {
@@ -35,11 +35,11 @@ th, td {
     text-align: left;
     border-bottom: 1px solid #ddd;
     background-color: GREY;
-    /* border-radius: 5px 5px 50px 4px; */
+    border-radius: 5px 5px 50px 5%;
 }
 
 .w{
-    background-image: url("rocks.png");
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.vCb6_LN3_z1OFHRYKEV6BgHaHa%26pid%3DApi&f=1&ipt=c8ccfacff61da8bad16a352011d13862b0f12355649b53c3e6bcce537a1186bf&ipo=images");
     background-position: center;
     background-size: cover; 
     background-origin: content-box;
